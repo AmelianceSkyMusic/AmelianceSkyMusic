@@ -7,7 +7,7 @@
 ---
 
 ### Hi, I am Rajab! 👋
-#### Front-End developer from Rivne, Ukraine | [CV](https://amelianceskymusic.github.io/) (in progress)
+#### Front-End developer from Rivne, Ukraine <!--| [CV](https://amelianceskymusic.github.io/) (in progress)-->
 
 I am a React Front-end developer with experience in UX/UI design and knowledge of QA Manual.
 
