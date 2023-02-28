@@ -37,7 +37,11 @@ I love to experiment and am always in the process of learning something new. I a
 #### AW <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221851907-5c908847-bf85-4cd3-8209-f8c6c20d0fb8.png" alt= “” width="100px"><br/>
 >
->Personal pet project <br/>
+>Pet Project
+>
+>Single Page Application for use within a music group. The application contains a list of songs, chords, and a chat for communication. The app's functionality includes the ability to create a song list and transpose chords
+>
+>The project was started at the beginning of my studies in vanilla JavaScript and later rewritten in React. Some of the functionality is in the process of being ported to React
 >
 >![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
@@ -81,7 +85,9 @@ I love to experiment and am always in the process of learning something new. I a
 ><img src="https://user-images.githubusercontent.com/38717657/221853338-bce6f004-d4b1-48cd-9101-6e9981647e96.png" alt= “” width="100px"><br/>
 >[deploy](https://amelianceskymusic.github.io/engle) | [github](https://github.com/AmelianceSkyMusic/engle)
 >
->The final task of the course in a team of 3 people. Although the course was about JavaScript, we tried to use React and Redux for the first time with the permission of our mentor. We had little experience as such, it was very difficult, but we did it. <br/>
+>Single Page Application for learning the most popular English words through two games. Users can have their own account, their own dictionary and statistics.
+>
+>The final task of the JavaScript/Front end course was performed by a team of 3 people. Although the course was on JavaScript, with the permission of the mentor, we tried to work with React and Redux for the first time. It was very difficult, but we did it.
 >
 >**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. development of the app store. Creating ui components. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen.<br/>
 >
@@ -96,4 +102,4 @@ I love to experiment and am always in the process of learning something new. I a
 ![react-responsive](https://img.shields.io/badge/-react_responsive-0D1117?style=for-the-badge&logo=npm)
 ![react-router-dom](https://img.shields.io/badge/-react_router_dom-0D1117?style=for-the-badge&logo=npm)
 
-### [View all →](https://github.com/AmelianceSkyMusic/AmelianceSkyMusic/blob/main/projects.md)
+### [See more →](https://github.com/AmelianceSkyMusic/AmelianceSkyMusic/blob/main/projects.md)
