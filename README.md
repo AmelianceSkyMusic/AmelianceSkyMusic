@@ -72,11 +72,11 @@ I love to experiment and am always in the process of learning something new. I a
 ![react-dnd](https://img.shields.io/badge/-react_dnd-0D1117?style=for-the-badge&logo=npm)
 
 
-#### Engle [deploy](https://amelianceskymusic.github.io/engle) | [github](https://rsspma.netlify.app/) <br/>
+#### Engle [deploy](https://amelianceskymusic.github.io/engle) | [github](https://github.com/AmelianceSkyMusic/engle) <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853338-bce6f004-d4b1-48cd-9101-6e9981647e96.png" alt= “” width="100px"><br/>
 >Final JavaScript team task <br/>
 >
->**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. development of the app store. Layout: header, footer, audio challenge game, home screen. Implementation of the "Audio Challenge" game.<br/>
+>**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. development of the app store. Creating ui components. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen.<br/>
 >
 >![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
@@ -92,14 +92,29 @@ I love to experiment and am always in the process of learning something new. I a
 #### Async Race [deploy](https://amelianceskymusic.github.io/amelianceskymusic-JSFE2022Q1/async-race/) | [github](https://github.com/AmelianceSkyMusic/amelianceskymusic-JSFE2022Q1/tree/async-race) <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853431-93bdf55f-7c69-4743-a848-f84a686022b1.png" alt= “” width="100px"><br/>
 >
+>
+>![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
+![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
 
 #### News Portal [deploy](https://amelianceskymusic.github.io/amelianceskymusic-JSFE2022Q1/migration-newip-to-ts/) | [github](https://github.com/AmelianceSkyMusic/amelianceskymusic-JSFE2022Q1/tree/migration-newip-to-ts--dev) <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853474-90b08fb1-e691-45fc-afde-6ec4ccca723b.png" alt= “” width="100px"><br/>
 >
+>
+>![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
+![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
 
 #### Online Store [deploy](https://amelianceskymusic.github.io/amelianceskymusic-JSFE2022Q1/online-store/) | [github](https://github.com/AmelianceSkyMusic/amelianceskymusic-JSFE2022Q1/tree/online-store-jest) <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853514-33450744-b6c5-473b-9848-b2d3cc54a495.png" alt= “” width="100px"><br/>
 >
+>
+>![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
+![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
 
 #### Css Mem Slider [deploy](https://amelianceskymusic.github.io/cssMemSlider/cssMemSlider/) | [github](https://github.com/AmelianceSkyMusic/cssMemSlider/tree/gh-pages) <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853566-fb01bb68-4462-49cf-8109-2991a81e90f2.png" alt= “” width="100px"><br/>
@@ -107,11 +122,15 @@ I love to experiment and am always in the process of learning something new. I a
 >
 >![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
 
-#### Virtual Keyboard [deploy](https://amelianceskymusic.github.io/cssMemSlider/cssMemSlider/) | [github](https://amelianceskymusic.github.io/virtual-keyboard/) <br/>
+#### Virtual Keyboard [deploy](https://amelianceskymusic.github.io/virtual-keyboard/) | [github](https://github.com/AmelianceSkyMusic/virtual-keyboard/tree/virtual-keyboard) <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853604-71d2f7b0-285e-413c-aa4b-9afde9da4906.png" alt= “” width="100px"><br/>
 >
+>
+>![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 
-#### Shelter [deploy](https://amelianceskymusic.github.io/cssMemSlider/cssMemSlider/) | [github](https://amelianceskymusic.github.io/amelianceskymusic-JSFE2022Q1/shelter/pages/main/) <br/>
+#### Shelter [deploy](https://amelianceskymusic.github.io/amelianceskymusic-JSFE2022Q1/shelter/pages/main/) | [github](https://github.com/AmelianceSkyMusic/amelianceskymusic-JSFE2022Q1/tree/shelter) <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853717-72badab4-2a40-4854-a6e8-8417cc5f9bfd.png" alt= “” width="100px"><br/>
 >
 >
