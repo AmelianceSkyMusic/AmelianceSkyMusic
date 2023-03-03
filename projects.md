@@ -1,8 +1,13 @@
 ## PROJECTS:
-### AW <br/>
-><img src="https://user-images.githubusercontent.com/38717657/221851907-5c908847-bf85-4cd3-8209-f8c6c20d0fb8.png" alt= “” width="100px"><br/>
+
+#### AW <br/>
+><img src="https://user-images.githubusercontent.com/38717657/221851907-5c908847-bf85-4cd3-8209-f8c6c20d0fb8.png" alt= “” width="100px">
 >
->Personal pet project <br/>
+>Pet Project
+>
+>Single Page Application for use within a music group. The application contains a list of songs, chords, and a chat for communication. The app's functionality includes the ability to create a song list and transpose chords
+>
+>The project was started at the beginning of my studies in vanilla JavaScript and later rewritten in React. Some of the functionality is in the process of being ported to React
 >
 >![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
@@ -22,12 +27,14 @@
 
 <br/>
 
-### Project Manager App <br/>
-><img src="https://user-images.githubusercontent.com/38717657/221854083-d065b8b3-79c6-4ea1-aa08-86ca270505ec.png" alt= “” width="100px"><br/>
->[github](https://rsspma.netlify.app/)
+#### Project Manager App <br/>
+><img src="https://user-images.githubusercontent.com/38717657/221854083-d065b8b3-79c6-4ea1-aa08-86ca270505ec.png" alt= “” width="100px">
 >
->React team task <br/>
->*Contribution:* sdfsdf<br/>
+>SPA that helps an individual in a team or group of developers achieve their goals.
+>
+>The final task of the React course was performed by a team of 3 people. Due to the lack of electricity and discrepancies in the power schedule, communication was very poor, and we had less time than most teams, тому .
+>
+>**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Create a guide on setting up the IDE, project management for the team with a description of everything in the project, which libraries are used and how we use them. Development of the app store. Customize MUI, MUI componoents, grid, add light dark dark themes. Layout: main page, signin, signup. Form validation.
 >
 >![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
@@ -44,13 +51,16 @@
 
 <br/>
 
-### Engle <br/>
-><img src="https://user-images.githubusercontent.com/38717657/221853338-bce6f004-d4b1-48cd-9101-6e9981647e96.png" alt= “” width="100px"><br/>
+#### Engle <br/>
+><img src="https://user-images.githubusercontent.com/38717657/221853338-bce6f004-d4b1-48cd-9101-6e9981647e96.png" alt= “” width="100px">
+>
 >[deploy](https://amelianceskymusic.github.io/engle) | [github](https://github.com/AmelianceSkyMusic/engle)
 >
->Final JavaScript team task <br/>
+>SPA for learning the most popular English words through two games. Users can have their own account, their own dictionary and statistics.
 >
->**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. development of the app store. Creating ui components. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen.<br/>
+>The final task of the JavaScript/Front end course was performed by a team of 3 people. Although the course was on JavaScript, with the permission of the mentor, we tried to work with React and Redux for the first time. It was very difficult, but we did it.
+>
+>**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Development of the app store. Creating ui components. Light and dark themes. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen.<br/>
 >
 >![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
