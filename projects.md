@@ -21,8 +21,6 @@
 ![i18next](https://img.shields.io/badge/-i18next-0D1117?style=for-the-badge&logo=i18next)
 ![react-responsive](https://img.shields.io/badge/-react_responsive-0D1117?style=for-the-badge&logo=npm)
 ![react-router-dom](https://img.shields.io/badge/-react_router_dom-0D1117?style=for-the-badge&logo=npm)
-![react-snowfall](https://img.shields.io/badge/-react_snowfall-0D1117?style=for-the-badge&logo=npm)
-![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-0D1117?style=for-the-badge&logo=Google)
 
 <br/>
 
