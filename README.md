@@ -59,33 +59,11 @@ I love to experiment and am always in the process of learning something new. I a
 ![react-snowfall](https://img.shields.io/badge/-react_snowfall-0D1117?style=for-the-badge&logo=npm)
 ![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-0D1117?style=for-the-badge&logo=Google)
 
-
-#### Project Manager App <br/>
-><img src="https://user-images.githubusercontent.com/38717657/221854083-d065b8b3-79c6-4ea1-aa08-86ca270505ec.png" alt= “” width="100px"><br/>
->[github](https://rsspma.netlify.app/)
->
->React team task <br/>
->*Contribution:* <br/>
->
->![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
-![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux)
-![axios](https://img.shields.io/badge/-axios-0D1117?style=for-the-badge&logo=axios)
-![lodash](https://img.shields.io/badge/-lodash-0D1117?style=for-the-badge&logo=lodash)
-![MUI](https://img.shields.io/badge/-MUI-0D1117?style=for-the-badge&logo=MUI)
-![Create React App](https://img.shields.io/badge/-Create_React_App-0D1117?style=for-the-badge&logo=Create-React-App)
-![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=ESLint)
-![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-0D1117?style=for-the-badge&logo=React-Hook-Form)
-![react-responsive](https://img.shields.io/badge/-react_responsive-0D1117?style=for-the-badge&logo=npm)
-![react-router-dom](https://img.shields.io/badge/-react_router_dom-0D1117?style=for-the-badge&logo=npm)
-![react-dnd](https://img.shields.io/badge/-react_dnd-0D1117?style=for-the-badge&logo=npm)
-
-
 #### Engle <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221853338-bce6f004-d4b1-48cd-9101-6e9981647e96.png" alt= “” width="100px"><br/>
 >[deploy](https://amelianceskymusic.github.io/engle) | [github](https://github.com/AmelianceSkyMusic/engle)
 >
->Single Page Application for learning the most popular English words through two games. Users can have their own account, their own dictionary and statistics.
+>SPA for learning the most popular English words through two games. Users can have their own account, their own dictionary and statistics.
 >
 >The final task of the JavaScript/Front end course was performed by a team of 3 people. Although the course was on JavaScript, with the permission of the mentor, we tried to work with React and Redux for the first time. It was very difficult, but we did it.
 >
@@ -102,4 +80,4 @@ I love to experiment and am always in the process of learning something new. I a
 ![react-responsive](https://img.shields.io/badge/-react_responsive-0D1117?style=for-the-badge&logo=npm)
 ![react-router-dom](https://img.shields.io/badge/-react_router_dom-0D1117?style=for-the-badge&logo=npm)
 
-### [See more →](https://github.com/AmelianceSkyMusic/AmelianceSkyMusic/blob/main/projects.md)
+### [More projects →](https://github.com/AmelianceSkyMusic/AmelianceSkyMusic/blob/main/projects.md)
