@@ -6,7 +6,7 @@
   src="https://img.shields.io/badge/-Mail-82af32"></a>
 ---
 
-### Hi, I am Rajab! 👋 React Front-End developer from Rivne, Ukraine. <!--| [CV](https://amelianceskymusic.github.io/) (in progress)-->
+### Hi, I am React Front-End developer from Rivne, Ukraine. <!--| [CV](https://amelianceskymusic.github.io/) (in progress)-->
 
 I am a React Front-end developer with experience in UX/UI design and knowledge of QA Manual.
 
