@@ -54,11 +54,11 @@
 #### Project Manager App <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221854083-d065b8b3-79c6-4ea1-aa08-86ca270505ec.png" alt= “” width="200px">
 >
->SPA that helps an individual in a team or group of developers achieve their goals.
+>SPA that helps an individual in a team or group of developers achieve their goals
 >
->The final task of the React course was performed by a team of 3 people. Due to the lack of electricity and discrepancies in the power schedule, communication was very poor, and we had less time than most teams, тому .
+>The final task of the React course was performed by a team of 3 people. Due to the lack of electricity and discrepancies in the power schedule, communication was very poor, and we had less time than most teams
 >
->**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Create a guide on setting up the IDE, project management for the team with a description of everything in the project, which libraries are used and how we use them. Development of the app store. Customize MUI, MUI componoents, grid, add light dark dark themes. Layout: main page, signin, signup. Form validation.
+>**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Create a guide on setting up the IDE, project management for the team with a description of everything in the project, which libraries are used and how we use them. Development of the app store. Customize MUI, MUI componoents, grid, add light dark dark themes. Layout: main page, signin, signup. Form validation
 >
 >![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
