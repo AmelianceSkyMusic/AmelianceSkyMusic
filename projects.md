@@ -129,9 +129,9 @@
 ><img src="https://user-images.githubusercontent.com/38717657/221853431-93bdf55f-7c69-4743-a848-f84a686022b1.png" alt= “” width="200px"><br/>
 >[deploy](https://amelianceskymusic.github.io/amelianceskymusic-JSFE2022Q1/async-race/) | [github](https://github.com/AmelianceSkyMusic/amelianceskymusic-JSFE2022Q1/tree/async-race)
 >
->The first TypeScript project where we learned to work with the Rest API <br/>
->Here I tried a decomposition approach <br/>
->I also tried to work with Lottie animation and the Web Animations API
+>The first TypeScript project where we learned to work with the Rest API in depth
+>Here I tried a decomposition approach
+>I also tried working with Lottie animation and the Web Animations API
 >
 >![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
