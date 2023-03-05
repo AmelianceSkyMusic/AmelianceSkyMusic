@@ -56,9 +56,9 @@
 >
 >SPA that helps an individual in a team or group of developers achieve their goals
 >
->The final task of the React course was performed by a team of 3 people. Due to the lack of electricity and discrepancies in the power schedule, communication was very poor, and we had less time than most teams
+>The final task of the React course was performed by a team of 3 people. Due to the lack of electricity and differences in the electricity supply schedule, communication was poor, and the time was less than for teams from outside Ukraine
 >
->**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Create a guide on setting up the IDE, project management for the team with a description of everything in the project, which libraries are used and how we use them. Development of the app store. Customize MUI, MUI componoents, grid, add light dark dark themes. Layout: main page, signin, signup. Form validation
+>**My contribution:** Team lead, organization of work and communication in the team. UX/UI design of the application. Project setup, installation of packages. Creating an IDE setup and project management guide for the team describing everything in the project, what libraries are used, and how we use them. Development of the application state. Setting up MUI, MUI components, grid, adding light and dark themes. Layout: home page, login, registration. Validation of forms
 >
 >![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
