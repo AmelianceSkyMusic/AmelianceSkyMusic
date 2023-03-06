@@ -6,8 +6,7 @@
   src="https://img.shields.io/badge/-Mail-82af32"></a>
 ---
 
-### Hi, I am React Front-End developer from Rivne, Ukraine. <!--| [CV](https://amelianceskymusic.github.io/) (in progress)-->
-
+### Hi, I am React Front-End developer from Rivne, Ukraine. | [CV](https://amelianceskymusic.github.io/)
 I am a React Front-end developer with experience in UX/UI design and knowledge of QA Manual.
 
 I recently completed a course on JavaScript and React development, one of the main features of which was a large emphasis on self-study. There I got a base for working with JS, React, Redux, REST API, MUI, and more. 
