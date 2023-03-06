@@ -1,3 +1,11 @@
+<a href="https://t.me/amelianceskymusic" target="_blank"><img alt="Telegram"
+  src="https://img.shields.io/badge/-Telegram-229ED9?style=flat&logo=Telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/radzhab/" target="_blank"><img alt="Linkedin"
+  src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:radzhab@ukr.net" target="_blank"><img alt="Mail"
+  src="https://img.shields.io/badge/-Mail-82af32"></a>
+---
+
 ## PROJECTS:
 
 #### CV <br/>
