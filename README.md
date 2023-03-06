@@ -44,8 +44,8 @@ I love to experiment and am always in the process of learning something new. I a
 >
 >The project was started at the beginning of my studies in vanilla JavaScript and later rewritten in React. Some of the functionality is in the process of being ported to React
 >
->![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
-![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
+>![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux)
 ![SCSS MODULES](https://img.shields.io/badge/-SCSS_Modules-0D1117?style=for-the-badge&logo=sass)
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=Vite)
@@ -61,14 +61,15 @@ I love to experiment and am always in the process of learning something new. I a
 ![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-0D1117?style=for-the-badge&logo=Google)
 
 #### Engle <br/>
-><img src="https://user-images.githubusercontent.com/38717657/221853338-bce6f004-d4b1-48cd-9101-6e9981647e96.png" alt= “” width="100px"><br/>
+><img src="https://user-images.githubusercontent.com/38717657/221853338-bce6f004-d4b1-48cd-9101-6e9981647e96.png" alt= “” width="100px">
+>
 >[deploy](https://amelianceskymusic.github.io/engle) | [github](https://github.com/AmelianceSkyMusic/engle)
 >
->SPA for learning the most popular English words through two games. Users can have their own account, their own dictionary and statistics.
+>SPA for learning the most popular English words through two games. Users can have their own account, their own dictionary and statistics
 >
->The final task of the JavaScript/Front end course was performed by a team of 3 people. Although the course was on JavaScript, with the permission of the mentor, we tried to work with React and Redux for the first time. It was very difficult, but we did it.
+>The final task of the JavaScript/Front end course was performed by a team of 3 people. Although the course was on JavaScript, with the permission of the mentor, we tried to work with React and Redux for the first time. It was very difficult, but we did it
 >
->**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. development of the app store. Creating ui components. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen.<br/>
+>**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Development of the app store. Creating ui components. Light and dark themes. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen<br/>
 >
 >![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
