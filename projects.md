@@ -83,7 +83,7 @@
 >
 >A training SPA project of the React course where we practiced our skills:<br/>
 >• React Class and Functional components<br/>
->• React Router Rom<br/>
+>• React Router DOM<br/>
 >• React Hooks <br/>
 >• React Hook Form <br/>
 >• State: useProvider, useReducer<br/>
