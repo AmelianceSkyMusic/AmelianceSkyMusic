@@ -54,6 +54,8 @@
 #### Project Manager App <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221854083-d065b8b3-79c6-4ea1-aa08-86ca270505ec.png" alt= “” width="200px">
 >
+>[github](https://github.com/AmelianceSkyMusic/project-management-app)
+>
 >SPA that helps an individual in a team or group of developers achieve their goals
 >
 >The final task of the React course was performed by a team of 3 people. Due to the lack of electricity and differences in the electricity supply schedule, communication was poor, and the time was less than for teams from outside Ukraine
