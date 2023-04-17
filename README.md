@@ -35,7 +35,7 @@ I love to experiment and am always in the process of learning something new. I a
 ### Some projects:
 
 #### AW <br/>
-><img src="https://user-images.githubusercontent.com/38717657/221851907-5c908847-bf85-4cd3-8209-f8c6c20d0fb8.png" alt= “” width="100px"><br/>
+><img src="https://user-images.githubusercontent.com/38717657/221851907-5c908847-bf85-4cd3-8209-f8c6c20d0fb8.png" alt= “” width="100px">
 >
 >[github](https://github.com/amelianceworship/amelianceworship.github.io)
 >
