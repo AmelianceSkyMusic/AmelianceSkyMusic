@@ -37,6 +37,8 @@ I love to experiment and am always in the process of learning something new. I a
 #### AW <br/>
 ><img src="https://user-images.githubusercontent.com/38717657/221851907-5c908847-bf85-4cd3-8209-f8c6c20d0fb8.png" alt= “” width="100px"><br/>
 >
+>[github](https://github.com/amelianceworship/amelianceworship.github.io)
+>
 >Pet Project
 >
 >Single Page Application for use within a music group. The application contains a list of songs, chords, and a chat for communication. The app's functionality includes the ability to create a song list and transpose chords
