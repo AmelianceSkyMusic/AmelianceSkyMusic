@@ -29,7 +29,7 @@ I love to experiment and am always in the process of learning something new. I a
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
 ![react-router-dom](https://img.shields.io/badge/-react_router_dom-0D1117?style=for-the-badge&logo=npm)
 ![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
-![...](https://img.shields.io/badge/-...-0D1117?style=for-the-badge&logo=...)
+![etc.](https://img.shields.io/badge/-etc.-0D1117?style=for-the-badge&logo=etc.)
 ---
 
 ### Some projects:
