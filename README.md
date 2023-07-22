@@ -6,7 +6,11 @@
   src="https://img.shields.io/badge/-Mail-82af32"></a>
 ---
 
- 
+ <br>
+
+ <br>
+
+ <br>
 
  
 ### Hi, I am React Front-End developer from Rivne, Ukraine | [CV](https://amelianceskymusic.github.io/)
