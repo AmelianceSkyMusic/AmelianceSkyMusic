@@ -4,17 +4,21 @@
   src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:radzhab@ukr.net" target="_blank"><img alt="Mail"
   src="https://img.shields.io/badge/-Mail-82af32"></a>
+  
 ---
 
- <br>
 
- 
 ### Hi, I am React Front-End developer from Rivne, Ukraine | [CV](https://amelianceskymusic.github.io/)
-I am a React Front-end developer with experience in UX/UI design and knowledge of QA Manual.
+
+<br>
+
+I am a React Front-end developer with experience in UX/UI design and knowledge of the QA Manual.
 
 I recently completed a course on JavaScript and React development, one of the main features of which was a large emphasis on self-study. There I got a base for working with JS, React, Redux, REST API, MUI, and more. 
 
-I love to experiment and am always in the process of learning something new. I am not afraid to use new approaches and change my habits if I see logic and growth for myself.
+I love to experiment and am always in the process of learning something new. I am not afraid to use new approaches and change my habits if I see logic and growth in myself.
+
+<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
@@ -33,9 +37,8 @@ I love to experiment and am always in the process of learning something new. I a
 ![react-router-dom](https://img.shields.io/badge/-react_router_dom-0D1117?style=for-the-badge&logo=npm)
 ![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
 ![etc.](https://img.shields.io/badge/-etc.-0D1117?style=for-the-badge&logo=etc.)
----
 
-<br>
+---
 
 ### Some projects:
 
