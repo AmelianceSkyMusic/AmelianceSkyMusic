@@ -8,10 +8,6 @@
 
  <br>
 
- <br>
-
- <br>
-
  
 ### Hi, I am React Front-End developer from Rivne, Ukraine | [CV](https://amelianceskymusic.github.io/)
 I am a React Front-end developer with experience in UX/UI design and knowledge of QA Manual.
@@ -38,6 +34,8 @@ I love to experiment and am always in the process of learning something new. I a
 ![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
 ![etc.](https://img.shields.io/badge/-etc.-0D1117?style=for-the-badge&logo=etc.)
 ---
+
+<br>
 
 ### Some projects:
 
