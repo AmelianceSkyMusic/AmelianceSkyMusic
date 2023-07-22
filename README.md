@@ -10,7 +10,7 @@
 \
 \
 \
-\
+\sssss
 
 ### Hi, I am React Front-End developer from Rivne, Ukraine | [CV](https://amelianceskymusic.github.io/)
 I am a React Front-end developer with experience in UX/UI design and knowledge of QA Manual.
