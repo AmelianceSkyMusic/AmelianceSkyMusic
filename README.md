@@ -42,6 +42,7 @@ I love to experiment and am always in the process of learning something new. I a
 ![React Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=CA4245)
 ![react-responsive](https://img.shields.io/badge/-react_responsive-0D1117?style=for-the-badge&logo=npm&logoColor=%23CB3837)
 ![i18next](https://img.shields.io/badge/-i18next-0D1117?style=for-the-badge&logo=i18next)
+![axios](https://img.shields.io/badge/-axios-0D1117?style=for-the-badge&logo=axios)
 ![ameliance ui](https://img.shields.io/badge/-asmlib-0D1117?style=for-the-badge&logo=npm&logoColor=%23CB3837)
 ![ameliance scripts](https://img.shields.io/badge/-asm_ts_scripts-0D1117?style=for-the-badge&logo=npm&logoColor=%23CB3837)
 ![autoprefixer](https://img.shields.io/badge/-autoprefixer-0D1117?style=for-the-badge&logo=autoprefixer)
