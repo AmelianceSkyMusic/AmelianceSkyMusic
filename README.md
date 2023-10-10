@@ -68,6 +68,7 @@ I love to experiment and am always in the process of learning something new. I a
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-0D1117?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-0D1117?style=for-the-badge&logo=affinity-photo&logoColor=%237E4DD2)
 ![etc.](https://img.shields.io/badge/-etc.-0D1117?style=for-the-badge&logo=etc.)
+
 ---
 
 ### Some projects:
