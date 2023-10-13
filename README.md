@@ -92,7 +92,7 @@ I love to experiment and am always in the process of learning something new. I a
 >
 >The project was started at the beginning of my studies in vanilla JavaScript and later rewritten in React. Some of the functionality is in the process of being ported to React
 >
->![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
+![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux)
 ![SCSS MODULES](https://img.shields.io/badge/-SCSS_Modules-0D1117?style=for-the-badge&logo=sass)
@@ -119,7 +119,7 @@ I love to experiment and am always in the process of learning something new. I a
 >
 >**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Development of the app store. Creating ui components. Light and dark themes. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen<br/>
 >
->![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux_Vanilla-0D1117?style=for-the-badge&logo=Redux)
 ![axios](https://img.shields.io/badge/-axios-0D1117?style=for-the-badge&logo=axios)
