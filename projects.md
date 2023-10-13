@@ -17,7 +17,7 @@
 >
 >The project was made on React to practice working with React once again, try something new and hone my skills
 >
->![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
+![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![Recoil](https://img.shields.io/badge/-Recoil-0D1117?style=for-the-badge&logo=Recoil)
 ![SCSS MODULES](https://img.shields.io/badge/-SCSS_Modules-0D1117?style=for-the-badge&logo=sass)
@@ -41,7 +41,7 @@
 >
 >The project was started at the beginning of my studies in vanilla JavaScript and later rewritten in React. Some of the functionality is in the process of being ported to React
 >
->![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
+![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux)
 ![SCSS MODULES](https://img.shields.io/badge/-SCSS_Modules-0D1117?style=for-the-badge&logo=sass)
@@ -70,7 +70,7 @@
 >
 >**My contribution:** Team lead, organization of work and communication in the team. UX/UI design of the application. Project setup, installation of packages. Creating an IDE setup and project management guide for the team describing everything in the project, what libraries are used, and how we use them. Development of the application state. Setting up MUI, MUI components, grid, adding light and dark themes. Layout: home page, login, registration. Validation of forms
 >
->![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
+![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux)
 ![axios](https://img.shields.io/badge/-axios-0D1117?style=for-the-badge&logo=axios)
@@ -100,7 +100,7 @@
 >• Redux RTK<br/>
 >• React Testing Library
 >
->![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
+![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux)
 ![Create React App](https://img.shields.io/badge/-Create_React_App-0D1117?style=for-the-badge&logo=Create-React-App)
@@ -122,7 +122,7 @@
 >
 >**My contribution:** Team leader, organization of work and communication in the team. UX/UI design of the application. Setting up the project, installing packages. Development of the app store. Creating ui components. Light and dark themes. Implementation of the "Audio Challenge" game. Layout: header, footer, audio challenge game, home screen<br/>
 >
->![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux_Vanilla-0D1117?style=for-the-badge&logo=Redux)
 ![axios](https://img.shields.io/badge/-axios-0D1117?style=for-the-badge&logo=axios)
@@ -143,7 +143,7 @@
 >Here I tried a decomposition approach
 >I also tried working with Lottie animation and the Web Animations API
 >
->![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 ![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
@@ -160,7 +160,7 @@
 >
 >A website with news. The task was to rewrite the existing code from JavaScript to TypeScript and make a layout of the design
 >
->![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 ![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
@@ -174,7 +174,7 @@
 >Mini-store. Working with filters <br/>
 >Working with MVC
 >
->![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 ![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
@@ -187,7 +187,7 @@
 >
 >Advanced work with CSS
 >
->![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
 
 <br/>
 
@@ -198,7 +198,7 @@
 >Work with keyboard events <br/>
 >Working with audio, creating different themes 
 >
->![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 
@@ -211,7 +211,7 @@
 >Layout of a multi-page website <br/>
 >Creating an endless carousel and pagination
 >
->![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 
@@ -224,7 +224,7 @@
 >Working with the Rest API <br/>
 >Advanced work with UI elements
 >
->![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 ![Rest API](https://img.shields.io/badge/-Rest_API-0D1117?style=for-the-badge&logo=rest-api)
@@ -239,7 +239,7 @@
 >Change the topic <br/>
 >Creating a game state
 >
->![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 
@@ -252,7 +252,7 @@
 >Customization of standard controls <br/>
 >Working with audio
 >
->![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)
 
@@ -267,7 +267,7 @@
 >Change the language <br/>
 >Change the theme
 >
->![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
 
@@ -279,5 +279,5 @@
 >
 >Layout using HTML CSS
 >
->![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)
