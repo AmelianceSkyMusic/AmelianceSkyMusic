@@ -77,6 +77,7 @@ I love to experiment and am always in the process of learning something new. I a
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-0D1117?style=for-the-badge&logo=affinity-photo&logoColor=%237E4DD2)
 ![etc.](https://img.shields.io/badge/-etc.-0D1117?style=for-the-badge&logo=etc.)
 
+<!---
 ---
 
 ### Some projects:
@@ -131,3 +132,4 @@ I love to experiment and am always in the process of learning something new. I a
 ![react-router-dom](https://img.shields.io/badge/-react_router_dom-0D1117?style=for-the-badge&logo=npm)
 
 ### [More projects →](https://github.com/AmelianceSkyMusic/AmelianceSkyMusic/blob/main/projects.md)
+ -->
