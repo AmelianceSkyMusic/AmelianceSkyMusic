@@ -7,6 +7,7 @@
   
 ---
 
+<br>
 
 ### Hi, I am React Front-End developer from Rivne, Ukraine | [CV](https://amelianceskymusic.github.io/)
 
@@ -14,9 +15,10 @@
 
 I am a React Front-end developer with experience in UX/UI design and knowledge of the QA Manual.
 
-I recently completed a course on JavaScript and React development, one of the main features of which was a large emphasis on self-study. There I got a base for working with JS, React, Redux, REST API, MUI, and more. 
+I recently completed a course on JavaScript and React development, one of the main features of which was a large emphasis on self-study.<br>
+There I got a base for working with JS, React, Redux, REST API, MUI, and more. 
 
-I love to experiment and am always in the process of learning something new. I am not afraid to use new approaches and change my habits if I see logic and growth in myself.
+I love to experiment and am always in the process of learning something new.<br>I am not afraid to use new approaches and change my habits if I see logic and growth in myself.
 
 <br>
 
@@ -133,3 +135,11 @@ I love to experiment and am always in the process of learning something new. I a
 
 ### [More projects →](https://github.com/AmelianceSkyMusic/AmelianceSkyMusic/blob/main/projects.md)
  -->
+
+<br>
+
+---
+ 
+![codewars](https://www.codewars.com/users/AmelianceSkyMusic/badges/small)
+ 
+
