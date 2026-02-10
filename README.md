@@ -13,12 +13,9 @@
 
 <br>
 
-I am a React Front-end developer with experience in UX/UI design and knowledge of the QA Manual.
+I am a Front-end developer with experience in Backend, UX/UI design, and knowledge of the QA Manual.
 
-I recently completed a course on JavaScript and React development, one of the main features of which was a large emphasis on self-study.<br>
-There I got a base for working with JS, React, Redux, REST API, MUI, and more. 
-
-I love to experiment and am always in the process of learning something new.<br>I am not afraid to use new approaches and change my habits if I see logic and growth in myself.
+I love to experiment and am always learning something new.<br>I am not afraid to try new approaches and change my habits when I see logic and growth in myself.
 
 <br>
 
